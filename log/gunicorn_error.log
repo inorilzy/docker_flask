@@ -1,0 +1,153 @@
+[2020-05-09 01:13:29 +0800] [14101] [INFO] Starting gunicorn 20.0.4
+[2020-05-09 01:13:29 +0800] [14101] [INFO] Listening at: http://127.0.0.1:8000 (14101)
+[2020-05-09 01:13:29 +0800] [14101] [INFO] Using worker: threads
+[2020-05-09 01:13:29 +0800] [14103] [INFO] Booting worker with pid: 14103
+[2020-05-09 01:13:29 +0800] [14104] [INFO] Booting worker with pid: 14104
+[2020-05-09 01:13:29 +0800] [14105] [INFO] Booting worker with pid: 14105
+[2020-05-09 01:13:29 +0800] [14106] [INFO] Booting worker with pid: 14106
+[2020-05-09 01:13:29 +0800] [14107] [INFO] Booting worker with pid: 14107
+[2020-05-09 01:13:29 +0800] [14108] [INFO] Booting worker with pid: 14108
+[2020-05-09 01:13:29 +0800] [14109] [INFO] Booting worker with pid: 14109
+[2020-05-09 01:13:29 +0800] [14113] [INFO] Booting worker with pid: 14113
+[2020-05-09 01:13:29 +0800] [14114] [INFO] Booting worker with pid: 14114
+[2020-05-09 01:13:29 +0800] [14115] [INFO] Booting worker with pid: 14115
+[2020-05-09 01:13:29 +0800] [14116] [INFO] Booting worker with pid: 14116
+[2020-05-09 01:13:29 +0800] [14117] [INFO] Booting worker with pid: 14117
+[2020-05-09 01:13:29 +0800] [14118] [INFO] Booting worker with pid: 14118
+[2020-05-09 01:13:50 +0800] [14101] [INFO] Handling signal: int
+[2020-05-09 01:13:50 +0800] [14109] [INFO] Worker exiting (pid: 14109)
+[2020-05-09 01:13:50 +0800] [14113] [INFO] Worker exiting (pid: 14113)
+[2020-05-09 01:13:50 +0800] [14108] [INFO] Worker exiting (pid: 14108)
+[2020-05-09 01:13:50 +0800] [14106] [INFO] Worker exiting (pid: 14106)
+[2020-05-09 01:13:50 +0800] [14105] [INFO] Worker exiting (pid: 14105)
+[2020-05-09 01:13:50 +0800] [14107] [INFO] Worker exiting (pid: 14107)
+[2020-05-09 01:13:50 +0800] [14115] [INFO] Worker exiting (pid: 14115)
+[2020-05-09 01:13:50 +0800] [14104] [INFO] Worker exiting (pid: 14104)
+[2020-05-09 01:13:50 +0800] [14103] [INFO] Worker exiting (pid: 14103)
+[2020-05-09 01:13:50 +0800] [14118] [INFO] Worker exiting (pid: 14118)
+[2020-05-09 01:13:50 +0800] [14117] [INFO] Worker exiting (pid: 14117)
+[2020-05-09 01:13:50 +0800] [14114] [INFO] Worker exiting (pid: 14114)
+[2020-05-09 01:13:50 +0800] [14116] [INFO] Worker exiting (pid: 14116)
+[2020-05-09 01:13:51 +0800] [14101] [INFO] Shutting down: Master
+[2020-05-09 01:14:15 +0800] [14214] [INFO] Starting gunicorn 20.0.4
+[2020-05-09 01:14:15 +0800] [14214] [INFO] Listening at: http://127.0.0.1:8000 (14214)
+[2020-05-09 01:14:15 +0800] [14214] [INFO] Using worker: threads
+[2020-05-09 01:14:15 +0800] [14216] [INFO] Booting worker with pid: 14216
+[2020-05-09 01:14:15 +0800] [14217] [INFO] Booting worker with pid: 14217
+[2020-05-09 01:14:15 +0800] [14219] [INFO] Booting worker with pid: 14219
+[2020-05-09 01:14:15 +0800] [14220] [INFO] Booting worker with pid: 14220
+[2020-05-09 01:14:15 +0800] [14221] [INFO] Booting worker with pid: 14221
+[2020-05-09 01:14:15 +0800] [14222] [INFO] Booting worker with pid: 14222
+[2020-05-09 01:14:15 +0800] [14223] [INFO] Booting worker with pid: 14223
+[2020-05-09 01:14:15 +0800] [14224] [INFO] Booting worker with pid: 14224
+[2020-05-09 01:14:15 +0800] [14225] [INFO] Booting worker with pid: 14225
+[2020-05-09 01:14:15 +0800] [14226] [INFO] Booting worker with pid: 14226
+[2020-05-09 01:14:15 +0800] [14229] [INFO] Booting worker with pid: 14229
+[2020-05-09 01:14:15 +0800] [14230] [INFO] Booting worker with pid: 14230
+[2020-05-09 01:14:15 +0800] [14231] [INFO] Booting worker with pid: 14231
+[2020-05-09 01:14:37 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:37 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:37 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:37 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:37 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:37 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:37 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:37 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:37 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:38 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:38 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:38 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:38 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:38 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:38 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:38 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:14:38 +0800] [14214] [INFO] Handling signal: winch
+[2020-05-09 01:20:59 +0800] [14214] [INFO] Handling signal: int
+[2020-05-09 01:20:59 +0800] [14219] [INFO] Worker exiting (pid: 14219)
+[2020-05-09 01:20:59 +0800] [14216] [INFO] Worker exiting (pid: 14216)
+[2020-05-09 01:20:59 +0800] [14220] [INFO] Worker exiting (pid: 14220)
+[2020-05-09 01:20:59 +0800] [14223] [INFO] Worker exiting (pid: 14223)
+[2020-05-09 01:20:59 +0800] [14225] [INFO] Worker exiting (pid: 14225)
+[2020-05-09 01:20:59 +0800] [14226] [INFO] Worker exiting (pid: 14226)
+[2020-05-09 01:20:59 +0800] [14229] [INFO] Worker exiting (pid: 14229)
+[2020-05-09 01:20:59 +0800] [14230] [INFO] Worker exiting (pid: 14230)
+[2020-05-09 01:20:59 +0800] [14222] [INFO] Worker exiting (pid: 14222)
+[2020-05-09 01:20:59 +0800] [14221] [INFO] Worker exiting (pid: 14221)
+[2020-05-09 01:20:59 +0800] [14217] [INFO] Worker exiting (pid: 14217)
+[2020-05-09 01:20:59 +0800] [14231] [INFO] Worker exiting (pid: 14231)
+[2020-05-09 01:20:59 +0800] [14224] [INFO] Worker exiting (pid: 14224)
+[2020-05-09 01:21:03 +0800] [14214] [INFO] Shutting down: Master
+[2020-05-09 01:21:06 +0800] [14253] [INFO] Starting gunicorn 20.0.4
+[2020-05-09 01:21:06 +0800] [14253] [INFO] Listening at: http://127.0.0.1:8000 (14253)
+[2020-05-09 01:21:06 +0800] [14253] [INFO] Using worker: threads
+[2020-05-09 01:21:06 +0800] [14255] [INFO] Booting worker with pid: 14255
+[2020-05-09 01:21:06 +0800] [14257] [INFO] Booting worker with pid: 14257
+[2020-05-09 01:21:06 +0800] [14258] [INFO] Booting worker with pid: 14258
+[2020-05-09 01:21:06 +0800] [14259] [INFO] Booting worker with pid: 14259
+[2020-05-09 01:21:06 +0800] [14260] [INFO] Booting worker with pid: 14260
+[2020-05-09 01:21:06 +0800] [14261] [INFO] Booting worker with pid: 14261
+[2020-05-09 01:21:06 +0800] [14262] [INFO] Booting worker with pid: 14262
+[2020-05-09 01:21:06 +0800] [14263] [INFO] Booting worker with pid: 14263
+[2020-05-09 01:21:06 +0800] [14266] [INFO] Booting worker with pid: 14266
+[2020-05-09 01:21:06 +0800] [14267] [INFO] Booting worker with pid: 14267
+[2020-05-09 01:21:06 +0800] [14268] [INFO] Booting worker with pid: 14268
+[2020-05-09 01:21:06 +0800] [14269] [INFO] Booting worker with pid: 14269
+[2020-05-09 01:21:06 +0800] [14270] [INFO] Booting worker with pid: 14270
+[2020-05-09 01:24:47 +0800] [14253] [INFO] Handling signal: hup
+[2020-05-09 01:24:47 +0800] [14253] [INFO] Hang up: Master
+[2020-05-09 01:24:47 +0800] [14331] [INFO] Booting worker with pid: 14331
+[2020-05-09 01:24:47 +0800] [14332] [INFO] Booting worker with pid: 14332
+[2020-05-09 01:24:47 +0800] [14333] [INFO] Booting worker with pid: 14333
+[2020-05-09 01:24:47 +0800] [14334] [INFO] Booting worker with pid: 14334
+[2020-05-09 01:24:47 +0800] [14335] [INFO] Booting worker with pid: 14335
+[2020-05-09 01:24:47 +0800] [14336] [INFO] Booting worker with pid: 14336
+[2020-05-09 01:24:47 +0800] [14337] [INFO] Booting worker with pid: 14337
+[2020-05-09 01:24:47 +0800] [14339] [INFO] Booting worker with pid: 14339
+[2020-05-09 01:24:47 +0800] [14338] [INFO] Booting worker with pid: 14338
+[2020-05-09 01:24:47 +0800] [14340] [INFO] Booting worker with pid: 14340
+[2020-05-09 01:24:47 +0800] [14253] [INFO] Handling signal: hup
+[2020-05-09 01:24:47 +0800] [14253] [INFO] Hang up: Master
+[2020-05-09 01:24:47 +0800] [14341] [INFO] Booting worker with pid: 14341
+[2020-05-09 01:24:47 +0800] [14342] [INFO] Booting worker with pid: 14342
+[2020-05-09 01:24:47 +0800] [14343] [INFO] Booting worker with pid: 14343
+[2020-05-09 01:24:47 +0800] [14344] [INFO] Booting worker with pid: 14344
+[2020-05-09 01:24:47 +0800] [14346] [INFO] Booting worker with pid: 14346
+[2020-05-09 01:24:47 +0800] [14347] [INFO] Booting worker with pid: 14347
+[2020-05-09 01:24:47 +0800] [14345] [INFO] Booting worker with pid: 14345
+[2020-05-09 01:24:47 +0800] [14348] [INFO] Booting worker with pid: 14348
+[2020-05-09 01:24:47 +0800] [14349] [INFO] Booting worker with pid: 14349
+[2020-05-09 01:24:47 +0800] [14350] [INFO] Booting worker with pid: 14350
+[2020-05-09 01:24:47 +0800] [14351] [INFO] Booting worker with pid: 14351
+[2020-05-09 01:24:47 +0800] [14352] [INFO] Booting worker with pid: 14352
+[2020-05-09 01:24:47 +0800] [14353] [INFO] Booting worker with pid: 14353
+[2020-05-09 01:24:47 +0800] [14354] [INFO] Booting worker with pid: 14354
+[2020-05-09 01:24:47 +0800] [14355] [INFO] Booting worker with pid: 14355
+[2020-05-09 01:24:47 +0800] [14356] [INFO] Booting worker with pid: 14356
+[2020-05-09 01:24:47 +0800] [14339] [INFO] Worker exiting (pid: 14339)
+[2020-05-09 01:24:47 +0800] [14335] [INFO] Worker exiting (pid: 14335)
+[2020-05-09 01:24:47 +0800] [14332] [INFO] Worker exiting (pid: 14332)
+[2020-05-09 01:24:47 +0800] [14333] [INFO] Worker exiting (pid: 14333)
+[2020-05-09 01:24:47 +0800] [14337] [INFO] Worker exiting (pid: 14337)
+[2020-05-09 01:24:47 +0800] [14340] [INFO] Worker exiting (pid: 14340)
+[2020-05-09 01:24:47 +0800] [14331] [INFO] Worker exiting (pid: 14331)
+[2020-05-09 01:24:47 +0800] [14334] [INFO] Worker exiting (pid: 14334)
+[2020-05-09 01:24:47 +0800] [14343] [INFO] Worker exiting (pid: 14343)
+[2020-05-09 01:24:47 +0800] [14336] [INFO] Worker exiting (pid: 14336)
+[2020-05-09 01:24:47 +0800] [14342] [INFO] Worker exiting (pid: 14342)
+[2020-05-09 01:24:47 +0800] [14341] [INFO] Worker exiting (pid: 14341)
+[2020-05-09 01:24:47 +0800] [14338] [INFO] Worker exiting (pid: 14338)
+[2020-05-09 01:25:00 +0800] [14253] [INFO] Handling signal: term
+[2020-05-09 01:25:00 +0800] [14350] [INFO] Worker exiting (pid: 14350)
+[2020-05-09 01:25:00 +0800] [14353] [INFO] Worker exiting (pid: 14353)
+[2020-05-09 01:25:00 +0800] [14347] [INFO] Worker exiting (pid: 14347)
+[2020-05-09 01:25:00 +0800] [14351] [INFO] Worker exiting (pid: 14351)
+[2020-05-09 01:25:00 +0800] [14346] [INFO] Worker exiting (pid: 14346)
+[2020-05-09 01:25:00 +0800] [14345] [INFO] Worker exiting (pid: 14345)
+[2020-05-09 01:25:00 +0800] [14348] [INFO] Worker exiting (pid: 14348)
+[2020-05-09 01:25:00 +0800] [14349] [INFO] Worker exiting (pid: 14349)
+[2020-05-09 01:25:00 +0800] [14352] [INFO] Worker exiting (pid: 14352)
+[2020-05-09 01:25:00 +0800] [14344] [INFO] Worker exiting (pid: 14344)
+[2020-05-09 01:25:00 +0800] [14356] [INFO] Worker exiting (pid: 14356)
+[2020-05-09 01:25:00 +0800] [14355] [INFO] Worker exiting (pid: 14355)
+[2020-05-09 01:25:00 +0800] [14354] [INFO] Worker exiting (pid: 14354)
+[2020-05-09 01:25:00 +0800] [14253] [INFO] Shutting down: Master

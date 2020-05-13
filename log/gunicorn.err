@@ -1,0 +1,46 @@
+[2020-05-06 17:49:11 +0800] [8999] [INFO] Starting gunicorn 20.0.4
+[2020-05-06 17:49:11 +0800] [8999] [INFO] Listening at: http://0.0.0.0:8000 (8999)
+[2020-05-06 17:49:11 +0800] [8999] [INFO] Using worker: sync
+[2020-05-06 17:49:11 +0800] [9001] [INFO] Booting worker with pid: 9001
+[2020-05-06 17:49:11 +0800] [9002] [INFO] Booting worker with pid: 9002
+[2020-05-06 17:49:11 +0800] [9003] [INFO] Booting worker with pid: 9003
+[2020-05-06 17:49:11 +0800] [9004] [INFO] Booting worker with pid: 9004
+[2020-05-06 17:49:18 +0800] [8999] [INFO] Handling signal: term
+[2020-05-06 17:49:18 +0800] [9003] [INFO] Worker exiting (pid: 9003)
+[2020-05-06 17:49:18 +0800] [9001] [INFO] Worker exiting (pid: 9001)
+[2020-05-06 17:49:18 +0800] [9004] [INFO] Worker exiting (pid: 9004)
+[2020-05-06 17:49:18 +0800] [9002] [INFO] Worker exiting (pid: 9002)
+[2020-05-06 17:49:19 +0800] [9005] [INFO] Starting gunicorn 20.0.4
+[2020-05-06 17:49:19 +0800] [9005] [INFO] Listening at: http://0.0.0.0:8000 (9005)
+[2020-05-06 17:49:19 +0800] [9005] [INFO] Using worker: sync
+[2020-05-06 17:49:19 +0800] [9007] [INFO] Booting worker with pid: 9007
+[2020-05-06 17:49:19 +0800] [9008] [INFO] Booting worker with pid: 9008
+[2020-05-06 17:49:19 +0800] [9009] [INFO] Booting worker with pid: 9009
+[2020-05-06 17:49:19 +0800] [9010] [INFO] Booting worker with pid: 9010
+[2020-05-06 17:49:26 +0800] [9011] [INFO] Starting gunicorn 20.0.4
+[2020-05-06 17:49:26 +0800] [9011] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-05-06 17:49:26 +0800] [9011] [ERROR] Retrying in 1 second.
+[2020-05-06 17:49:27 +0800] [9011] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-05-06 17:49:27 +0800] [9011] [ERROR] Retrying in 1 second.
+[2020-05-06 17:49:28 +0800] [9011] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-05-06 17:49:28 +0800] [9011] [ERROR] Retrying in 1 second.
+[2020-05-06 17:49:29 +0800] [9011] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-05-06 17:49:29 +0800] [9011] [ERROR] Retrying in 1 second.
+[2020-05-06 17:49:30 +0800] [9011] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-05-06 17:49:30 +0800] [9011] [ERROR] Retrying in 1 second.
+[2020-05-06 17:49:31 +0800] [9011] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2020-05-06 17:51:07 +0800] [9044] [INFO] Starting gunicorn 20.0.4
+[2020-05-06 17:51:07 +0800] [9044] [INFO] Listening at: http://127.0.0.1:8000 (9044)
+[2020-05-06 17:51:07 +0800] [9044] [INFO] Using worker: sync
+[2020-05-06 17:51:07 +0800] [9046] [INFO] Booting worker with pid: 9046
+[2020-05-06 17:51:07 +0800] [9047] [INFO] Booting worker with pid: 9047
+[2020-05-06 17:51:07 +0800] [9048] [INFO] Booting worker with pid: 9048
+[2020-05-06 17:51:07 +0800] [9049] [INFO] Booting worker with pid: 9049
+[2020-05-06 22:26:43 +0800] [9044] [CRITICAL] WORKER TIMEOUT (pid:9047)
+[2020-05-06 22:26:43 +0800] [9047] [INFO] Worker exiting (pid: 9047)
+[2020-05-06 22:26:43 +0800] [11186] [INFO] Booting worker with pid: 11186
+[2020-05-07 00:53:09 +0800] [11186] [INFO] Worker exiting (pid: 11186)
+[2020-05-07 00:53:09 +0800] [9044] [INFO] Handling signal: term
+[2020-05-07 00:53:09 +0800] [9048] [INFO] Worker exiting (pid: 9048)
+[2020-05-07 00:53:09 +0800] [9049] [INFO] Worker exiting (pid: 9049)
+[2020-05-07 00:53:09 +0800] [9046] [INFO] Worker exiting (pid: 9046)

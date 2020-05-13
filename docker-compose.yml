@@ -1,0 +1,22 @@
+version: "3"
+services:
+    nginx:
+        image: nginx
+        ports:
+        - 80:80
+        volumes:
+        - ./nginx_conf:/etc/nginx/conf.d
+        depends_on:
+          - python_flask
+
+    python_flask:
+        build: .
+        volumes:
+        - /Users/liuzhiyu/PycharmProjects/nginx_gunicorn_supervisor_flask:/flask_application/
+        container_name: python_flask
+
+    mysql:
+        image: mysql:8.0.20
+        environment:
+        - MYSQL_ROOT_PASSWORD=liuzhiyu
+
